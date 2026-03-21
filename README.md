@@ -167,12 +167,3 @@ Open to freelance projects, custom ML models, and Power BI dashboards.
 
 ---
 
-## ⭐ Project Value
-
-This project demonstrates:
-- End-to-end machine learning pipeline  
-- Integration of ML with BI tools  
-- Geospatial + predictive analytics  
-- Real-world public safety application  
-
-👉 Designed for **stakeholder engagement, policy insight, and portfolio showcasing**
