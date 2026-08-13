@@ -158,12 +158,12 @@ Data Analytics | Power BI | Machine Learning
 
 ---
 
-## 🤝 Contact & Collaboration
+##  Contact & Collaboration
 
 Open to freelance projects, custom ML models, and Power BI dashboards.
 
-📧 richardmcinerney@proton.me  
-🔗 https://linkedin.com/in/richardmcinerney-data  
+ richardmcinerney@proton.me  
+ https://linkedin.com/in/richardmcinerney-data  
 
 ---
 
