@@ -1,6 +1,6 @@
-# 🚗 UK Road Accident Severity Prediction & Risk Scoring
+#  UK Road Accident Severity Prediction & Risk Scoring
 
-## 🚀 Overview
+##  Overview
 
 This project delivers an end-to-end machine learning solution using the **UK Road Safety (STATS19) dataset (2005–2016)** to predict accident severity and generate risk scores for high-risk conditions.
 
@@ -8,31 +8,31 @@ It enables organisations to move from **reactive accident analysis** to **proact
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-### 🤖 Machine Learning Model
+###  Machine Learning Model
 - Multi-class classification (Slight / Serious / Fatal)  
 - Built using **Random Forest (Scikit-learn)**  
 - Generates **accident severity predictions and risk scores**  
 - Model accuracy: **83.8%**  
 
-### 📊 Power BI Dashboard
+###  Power BI Dashboard
 - Interactive accident analysis across time, location, and conditions  
 - Risk segmentation and trend analysis  
 - Multi-page dashboard for stakeholder insights  
 
-### 📍 Geospatial Analysis
+###  Geospatial Analysis
 - Accident density mapping by local authority  
 - UK-wide accident heatmaps  
 - Identification of high-risk regions  
 
-### 📄 Data Outputs
+###  Data Outputs
 - Exported predictions (`accident_predictions.csv`)  
 - Risk scoring for downstream BI integration  
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 Road accidents result in:
 - Loss of life and serious injury  
@@ -49,7 +49,7 @@ This project addresses:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Overview
 <img width="1293" height="726" alt="Screenshot 2026-03-21 144915" src="https://github.com/user-attachments/assets/706255f0-efb7-478d-bb00-b384e7d7e397" />
@@ -62,7 +62,7 @@ This project addresses:
 
 ---
 
-## 🗺️ Geospatial Insights
+##  Geospatial Insights
 
 - Accident density varies significantly across regions  
 - Urban areas show higher concentration of incidents  
@@ -70,19 +70,19 @@ This project addresses:
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
 - Data cleaning and preprocessing  
 - Feature engineering (time, weather, speed, conditions)  
 - Multi-class classification model  
 - Model evaluation using accuracy and confusion matrix  
 
-👉 **Notebook:**  
+ **Notebook:**  
 https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sharing  
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 - Accuracy: **83.8%**  
 - Key Drivers:
@@ -104,7 +104,7 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Accident severity increases under **higher speed limits**  
 - Night-time and low visibility conditions increase risk  
@@ -114,7 +114,7 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
 
 ---
 
-## 💡 Business Value
+##  Business Value
 
 - Predicts high-risk accident scenarios before they occur  
 - Enables **targeted safety interventions**  
@@ -124,11 +124,11 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
   - Insurance companies  
   - Transport planners  
 
-👉 Drives **data-driven road safety improvements**
+ Drives **data-driven road safety improvements**
 
 ---
 
-## ▶️ How to Run the Model
+##  How to Run the Model
 
 1. Open the notebook:
    https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sharing  
@@ -141,7 +141,7 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
    
 ---
 
-## 🧩 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, NumPy, Scikit-learn)  
 - Machine Learning (Random Forest)  
@@ -151,7 +151,7 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
 
 ---
 
-## 👤 Author
+##  Author
 
 **Richard McInerney**  
 Data Analytics | Power BI | Machine Learning  
