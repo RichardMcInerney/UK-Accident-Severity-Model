@@ -52,13 +52,16 @@ This project addresses:
 ##  Dashboard Preview
 
 ### Executive Overview
-<img width="1293" height="726" alt="Screenshot 2026-03-21 144915" src="https://github.com/user-attachments/assets/706255f0-efb7-478d-bb00-b384e7d7e397" />
+<img width="1305" height="732" alt="Executive_Overview_v2" src="https://github.com/user-attachments/assets/eee5ee30-b1a2-46b3-95c4-4b4c3b25fabe" />
+
 
 ### Time & Conditions Analysis
-<img width="1296" height="724" alt="Screenshot 2026-03-21 145011" src="https://github.com/user-attachments/assets/167bf9a5-4b9a-4f16-bad5-391e0a714a89" />
+<img width="1297" height="727" alt="Time_ _Environmental_Conditions_v2" src="https://github.com/user-attachments/assets/23488141-455a-4919-b083-c201c9583ee3" />
+
 
 ### Driver & Vehicle Risk
-<img width="1284" height="719" alt="Screenshot 2026-03-21 145028" src="https://github.com/user-attachments/assets/9a39fec3-ca8d-4104-b201-5d2114e47ed9" />
+<img width="1301" height="735" alt="Driver_ _Vehicle_Risk_v2" src="https://github.com/user-attachments/assets/52117a3a-343b-4eab-962a-b4bbcc831c86" />
+
 
 ---
 
