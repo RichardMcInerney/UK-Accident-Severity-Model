@@ -93,11 +93,6 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
 ### ROC Curve Comparison
 ![ROC Curves](https://github.com/user-attachments/assets/0303bb68-fe20-40c4-87f3-7c155fd333ae)
 
-### Risk Category Visualisation
-![Risk Categories](https://github.com/user-attachments/assets/d7d3f2d7-6f98-4840-af1c-1c713003618d)
-
-### Exploratory Data Analysis
-![EDA](https://github.com/user-attachments/assets/e80f4f0e-babf-4c0d-8963-98fab2fd5b9b)
 
 ---
 
