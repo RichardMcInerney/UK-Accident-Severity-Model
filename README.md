@@ -2,9 +2,9 @@
 
 ##  Overview
 
-This project delivers an end-to-end machine learning solution using the **UK Road Safety (STATS19) dataset (2005–2016)** to predict accident severity and generate risk scores for high-risk conditions.
+This project delivers an end-to-end machine learning solution using the UK Road Safety (STATS19) dataset (2005–2016) to predict accident severity and generate risk scores for high-risk conditions.
 
-It enables organisations to move from **reactive accident analysis** to **proactive risk identification and safety planning**.
+It enables organisations to move from reactive accident analysis to proactive risk identification and safety planning.
 
 ---
 
@@ -12,9 +12,9 @@ It enables organisations to move from **reactive accident analysis** to **proact
 
 ###  Machine Learning Model
 - Multi-class classification (Slight / Serious / Fatal)  
-- Built using **Random Forest (Scikit-learn)**  
-- Generates **accident severity predictions and risk scores**  
-- Model accuracy: **83.8%**  
+- Built using Random Forest (Scikit-learn) 
+- Generates accident severity predictions and risk scores  
+- Model accuracy: 83.8%
 
 ###  Power BI Dashboard
 - Interactive accident analysis across time, location, and conditions  
@@ -104,7 +104,7 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
 
 ##  Key Insights
 
-- Accident severity increases under **higher speed limits**  
+- Accident severity increases under higher speed limits  
 - Night-time and low visibility conditions increase risk  
 - Weather conditions (rain, fog) significantly impact severity  
 - Certain vehicle types show higher severity distributions  
@@ -115,14 +115,14 @@ https://colab.research.google.com/drive/1vqii9QUbvKtfqTeXTsXzLlxNLhW5O3m3?usp=sh
 ##  Business Value
 
 - Predicts high-risk accident scenarios before they occur  
-- Enables **targeted safety interventions**  
+- Enables targeted safety interventions
 - Supports:
   - Government agencies  
   - Police forces  
   - Insurance companies  
   - Transport planners  
 
- Drives **data-driven road safety improvements**
+ Drives data-driven road safety improvements
 
 ---
 
